@@ -22,9 +22,5 @@
     "typescript": "^3.4.5"
   },
   "author": "Aniketh Saha website: <anik220798@gmail.com> (http://www.anikethsaha.me)",
-  "license": "ISC",
-  "dependencies": {
-    "global": "^4.3.2",
-    "np": "^5.0.2"
-  }
+  "license": "ISC"
 }
