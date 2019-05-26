@@ -1,7 +1,20 @@
-# basicxssfilter
-This is a basic xss filter for node.js
-Its too easy to use and its light weight package Installing basicxss
+<p align="center">
 
+  <img alt="b logo" src="https://imgur.com/nqnrVNf.png" width="170px" />
+
+</p>
+
+<p align="center">
+  This is a basic xss filter for node.js. 
+</p>
+
+
+
+[![Build Status](https://travis-ci.org/anikethsaha/basicxssfilter.svg?branch=master)](https://travis-ci.org/anikethsaha/basicxssfilter)
+[![npm version](https://badge.fury.io/js/basicxss.svg)](https://badge.fury.io/js/basicxss)
+[![NPM Downloads](https://img.shields.io/npm/dm/basicxss.svg?style=flat)](https://www.npmjs.com/package/basicxss)
+[![GitHub license](https://img.shields.io/github/license/anikethsaha/basicxssfilter.svg)](https://github.com/anikethsaha/basicxssfilter)
+&nbsp;
 # Installation
 
 ```bash
