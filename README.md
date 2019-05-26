@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  This is a basic xss filter for node.js. 
+  This is a basic xss filter for node.js.
 </p>
 
 
@@ -24,7 +24,7 @@ $ npm i basicxss --save
 # How To Use
 This is the most simple part till now :)
 ```bash
-const basicxss = require('basicxss');
+const {basicxss} = require('basicxss');
 ```
 
 Then after this call the its function i.e `basicxss(arg)` and pass the string to be filtered in the argument.
