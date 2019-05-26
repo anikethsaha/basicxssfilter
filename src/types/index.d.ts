@@ -1,0 +1,1 @@
+export str : string
