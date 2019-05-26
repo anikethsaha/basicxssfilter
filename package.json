@@ -1,0 +1,30 @@
+{
+  "name": "basicxss",
+  "version": "1.0.1",
+  "description": "This is a simple and basic filtering package just to prevent a user input from xss .",
+  "main": "index.js",
+  "keywords": [
+    "basicxss",
+    "xssfilter",
+    "xss"
+  ],
+  "repository": "git://github.com/anikethsaha/basicxssfilter.git",
+  "scripts": {
+    "test": "jest",
+    "type:build": "tsc",
+    "type:watch": "tsc -w",
+    "build": "parcel build --no-autoinstall src/index.ts --target node --out-dir dist --out-file index.js ",
+    "watch": "parcel watch --no-autoinstall src/index.ts --target node --out-dir dist --out-file index.js "
+  },
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.4.5"
+  },
+  "author": "Aniketh Saha website: <anik220798@gmail.com> (http://www.anikethsaha.me)",
+  "license": "ISC",
+  "dependencies": {
+    "global": "^4.3.2",
+    "np": "^5.0.2"
+  }
+}
