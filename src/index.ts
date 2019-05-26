@@ -15,5 +15,7 @@ export const basicxss = (str : string) : string => {
    str = encodeURI(str);
    str = str.trim();
    str = escape(str);
+
+
    return str;
 };
