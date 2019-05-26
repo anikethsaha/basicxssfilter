@@ -7,7 +7,11 @@
     "basicxss",
     "xssfilter",
     "xss"
+  ],    
+  "files": [
+    "dist/"
   ],
+  "main": "dist/index.js",
   "repository": "git://github.com/anikethsaha/basicxssfilter.git",
   "scripts": {
     "test": "jest",
@@ -22,5 +26,5 @@
     "typescript": "^3.4.5"
   },
   "author": "Aniketh Saha website: <anik220798@gmail.com> (http://www.anikethsaha.me)",
-  "license": "ISC"
+  "license": "MIT"
 }
