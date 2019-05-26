@@ -1,6 +1,6 @@
 {
   "name": "basicxss",
-  "version": "1.0.1",
+  "version": "2.1.1",
   "description": "This is a simple and basic filtering package just to prevent a user input from xss .",
   "main": "index.js",
   "keywords": [
