@@ -1,1 +1,1 @@
-export str : string
+export const str : string
