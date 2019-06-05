@@ -23,7 +23,7 @@ $ npm i basicxss --save
 
 # How To Use
 This is the most simple part till now :)
-```bash
+```typescript
 const {basicxss} = require('basicxss');
 ```
 
